@@ -1,0 +1,15 @@
+.card-list
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start; /* Garante que todos os cards alinhem pela borda superior */
+    gap: 20px;
+    
+}
+
+.filter{
+    margin-bottom: 90px;
+    color: aliceblue;
+    align-self: self-start;
+}

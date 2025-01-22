@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Enzo Alves",
+        "descricao": "Senior UX/UI Designer",
+        "imgSrc": "/IMG/enzoP.jpg",
+        "numFollowers": "340k",
+        "numFollowing": "50k",
+        "projetos": ["UI Redesign", "E-commerce App", "Portfolio Website"]
+    },
+    {
+        "nome": "Maria Silva",
+        "descricao": "Frontend Developer",
+        "imgSrc": "/IMG/maria.jpeg",
+        "numFollowers": "150k",
+        "numFollowing": "30k",
+        "projetos": ["UI Redesign", "E-commerce App", "Portfolio Website"]
+    },
+    {
+        "nome": "Maria Silva",
+        "descricao": "Frontend Developer",
+        "imgSrc": "/IMG/maria.jpeg",
+        "numFollowers": "150k",
+        "numFollowing": "30k",
+        "projetos": ["Mobile App", "Dashboard"]
+    }
+
+]
